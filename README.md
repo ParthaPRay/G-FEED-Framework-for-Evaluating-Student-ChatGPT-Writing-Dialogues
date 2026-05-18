@@ -1,4 +1,3 @@
-````markdown
 # G-FEED Framework for Evaluating Student–ChatGPT Writing Dialogues
 
 ## Overview
